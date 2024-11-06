@@ -1,0 +1,6 @@
+site_name: ECCTY-DTCC 2024 - Dallas, Texas
+nav:
+  - Home: index.md
+  - Hands-on Labs: labs.md
+theme: readthedocs  
+extra_css: ["extra.css"]
